@@ -6,7 +6,7 @@
 #include <stdlib.h>// for exit() function
 #include <sstream>//to use streamstring class for converting string to int
 #include <limits>//numeric limits
-#include "headerofheader.h"
+#include "functin.h"
 using namespace std;
 //macro define password and username constant
 #define ADMINUSER "ar"
